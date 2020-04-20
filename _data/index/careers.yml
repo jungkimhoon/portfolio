@@ -1,30 +1,59 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: 하남고등학교 졸업
+    i18n: company_b
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: 인문계 졸업
+    i18n: company_b_desc
   date:
-    detail: Apr. 2016
+    detail: 2013.02
+    i18n: company_b_date
+  job:
+    detail: 고등학교 졸업
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: 명지대학교 입학
+    i18n: 명지대학교
+  desc:
+    detail: [ICT융합대학 정보통신공학과 입학<br>]  
+    i18n: company_a_desc 
+  date:
+    detail: 2013.03
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: 대학교 입학
     i18n: company_a_job
   icon: fa-plus-square
   present: true
 
 - name:
-    detail: Company B
+    detail: 명지대학교 졸업
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: ICT융합대학 정보통신공학과 졸업<br>3.18 / 4.50
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: 2020.02
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: 대학교 졸업
     i18n: company_b_job
   icon: fa-plus-square
+
+- name:
+    detail: 비트캠프 교육 이수
+    i18n: 명지대학교
+  desc: 
+    detail: [자바 개발자 양성과정 교육 이수<br>]  
+    i18n: company_a_desc 
+  date:
+    detail: 2019.12 ~ 20.04
+    i18n: company_a_date
+  job:
+    detail: 교육 이수
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
