@@ -26,7 +26,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux    
     - name: icon-apache      
-  desc:  사람간의 관계를 중요하게 생각합니다.<br>다양한 의견들을 융통성있게 포용하려 노력합니다.<br>IT 전문가가 되기위해 묵직하게 나아가겠습니다!! <br><br><strong>보유기술 </strong><br>JAVA, JSP, SPRING, HTML, CSS, JAVASCRIPT<br>Oracle, MyBatis
+  desc:  사람간의 관계를 중요하게 생각합니다.<br>다양한 의견들을 융통성있게 포용하려 노력합니다.<br>프로 개발자가 되기위해 묵직하게 나아가겠습니다!! <br><br><strong>보유기술 </strong><br>JAVA, JSP, SPRING, HTML, CSS, JAVASCRIPT<br>Oracle, MyBatis
        
 # comment       
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.  
