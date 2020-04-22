@@ -12,7 +12,7 @@ author:  # change following line to your infomation.
   name: 김정훈  # Be used at blog posts' author. 
   first_name: 김  # Be used at index page about me section.
   last_name: 정훈 # Be used at index page about me section.  
-  avatar: /static/assets/img/landing/kjh.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/kjhA.jpg  # upload your avatar at directory and edit it.
   github_username: jungkimhoon  # Leave blank if you don't have now 
   linkedin_id:  # Leave blank if you don't have now   
   facebook_username:   # Leave blank if you don't have now
