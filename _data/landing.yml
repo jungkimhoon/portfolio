@@ -12,12 +12,6 @@
   tpl: career.html
   css: timeline
 
-- id: skills
-  i18n: nav.skills
-  name: 활용능력
-  tpl: skills.html
-  css: team
-
 - id: projects
   i18n: nav.projects
   name: 프로젝트 
@@ -36,4 +30,3 @@
   name: Links
   tpl: links.html
   css: contact
-

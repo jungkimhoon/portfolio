@@ -18,7 +18,7 @@
     detail: 명지대학교 입학
     i18n: 명지대학교
   desc:
-    detail: [ICT융합대학 정보통신공학과 입학<br>]  
+    detail: [ICT융합대학<br> 정보통신공학과 입학<br>]  
     i18n: company_a_desc 
   date:
     detail: 2013.03
@@ -33,7 +33,7 @@
     detail: 명지대학교 졸업
     i18n: company_b
   desc:
-    detail: ICT융합대학 정보통신공학과 졸업<br>3.18 / 4.50
+    detail: ICT융합대학<br> 정보통신공학과 졸업<br>학점 3.18 / 4.50
     i18n: company_b_desc
   date:
     detail: 2020.02

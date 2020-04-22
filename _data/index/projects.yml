@@ -1,22 +1,22 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: 비트농장
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
+- name: 비트농장 2020.03.16 ~ 2020.04.04
+  i18n: bitFarm
+  gh_user: jungkimhoon
+  repo: bitFarm
+  img: /static/assets/img/landing/bitFarm.png
   desc: <strong>농축산물을 중점적으로 판매하는 온라인 쇼핑몰입니다.<br>Spring framework를 사용하여 제작하였습니다.<br>저는 회원가입, 수정, 고객센터 등을 구현하였습니다.<br>또한 네이버, 카카오톡, 페이스북 로그인 api, chart.js, <br>스프링 시큐리티를 통한 암호화, 메일링 서비스를 구현하였습니다.</strong>
 
-- name: FaceChecker
+- name: FaceChecker 학부 캡스톤 프로젝트 2
   i18n: cpython
-  gh_user: python
+  gh_user: jungkimhoon
   repo: cpython
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/suho.png 
   desc: <strong>행인들의 얼굴 인식을 통해 나이 성별 데이터를 분류하여<br>그 데이터에 알맞는 광고영상을 출력하는 프로젝트입니다.<br>파이썬 OpenCV 라이브러리 기반 얼굴인식 오픈소스를 사용했습니다.<br>라즈베리파이, JSP, Oracle을 사용하여 설계를 완성했습니다.</strong>
 
-- name: 스마트 CCTV
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
+- name: 스마트 CCTV 학부 캡스톤 프로젝트 1 
+  i18n: google 
+  url: # 
+  img: /static/assets/img/landing/cctv.png 
   desc: <strong>라즈베리파이 파이카메라를 이용하여 침입자를 탐지하는 시스템입니다.<br>카메라에 침입자의 움직임이 탐지되면 SNS에 사진과 함께<br>경고 알림을 전송합니다.</strong>
