@@ -11,7 +11,7 @@
 - name: FaceChecker 학부 캡스톤 프로젝트 2
   i18n: cpython
   gh_user: jungkimhoon
-  repo: cpython
+  repo: facechecker
   img: /static/assets/img/landing/suho.png 
   desc: <strong>행인들의 얼굴 인식을 통해 나이 성별 데이터를 분류하여<br>그 데이터에 알맞는 광고영상을 출력하는 프로젝트입니다.<br>파이썬 OpenCV 라이브러리 기반 얼굴인식 오픈소스를 사용했습니다.<br>라즈베리파이, JSP, Oracle을 사용하여 설계를 완성했습니다.</strong>
 
