@@ -11,7 +11,6 @@ icon: icon-html
 
 내 친구 고돌이 
 
-	<!-- ![edit]({{ site.img_path }}/3steps/29046.jpg) -->
-	<img src="{{ site.img_path }}/3steps/29046.jpg" width="75%">
+	<img src="https://user-images.githubusercontent.com/59942147/80085380-19566300-8593-11ea-9851-8badd91a9cdc.jpg" width="75%">
 
 블로그 테스트 끝
