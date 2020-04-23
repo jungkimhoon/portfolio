@@ -18,9 +18,9 @@
             <div class="col-sm-6 wow {% if loopindex == 1 %} fadeInLeft {% else %} fadeInRight {% endif %}" style="width:450px;">  
             {% endif %} 
               <div class="team-member" >  
-                  <img src="{{ project.img | prepend: site.baseurl }}" onclick="location.href='https://github.com/{{ project.gh_user }}/{{ project.repo }}'" style="width:380px;height:200px;cursor:pointer;" alt="">
+                  <img src="{{ project.img | prepend: site.baseurl }}" {% if project.repo %} onclick="location.href='https://github.com/{{ project.gh_user }}/{{ project.repo }}'" {% endif %} style="width:380px;height:200px;cursor:pointer;" alt="">
 				  <br><br>
-                  <h4>
+                  <h4> 
                   {% if project.url %} 
                   <a href="{{ project.url }}" target="_blank"><span class="navy" style="font-size:12pt; font-weight:bold;">{{ project.name }}</span></a>
                   {% elsif project.repo %}

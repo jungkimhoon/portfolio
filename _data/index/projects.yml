@@ -16,7 +16,7 @@
   desc: <strong>행인들의 얼굴 인식을 통해 나이 성별 데이터를 분류하여<br>그 데이터에 알맞는 광고영상을 출력하는 프로젝트입니다.<br>파이썬 OpenCV 라이브러리 기반 얼굴인식 오픈소스를 사용했습니다.<br>라즈베리파이, JSP, Oracle을 사용하여 설계를 완성했습니다.</strong>
 
 - name: 스마트 CCTV 학부 캡스톤 프로젝트 1 
-  i18n: google 
+  i18n: #
   url: # 
   img: /static/assets/img/landing/cctv.png 
   desc: <strong>라즈베리파이 파이카메라를 이용하여 침입자를 탐지하는 시스템입니다.<br>카메라에 침입자의 움직임이 탐지되면 SNS에 사진과 함께<br>경고 알림을 전송합니다.</strong>
